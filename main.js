@@ -52,7 +52,7 @@ const rtanCrashImage = new Image();
 rtanCrashImage.src = "./images/rtan_crash.png";
 // (8) 장애물
 const obstacleImage = new Image();
-obstacleImage.src = "./images/obstacle1.png";
+obstacleImage.src = "./images/obstacle12.png";
 
 /** 1-1 르탄이 그리기 */
 const RTAN_WIDTH = 100; // 르탄이 가로 너비
